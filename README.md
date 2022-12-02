@@ -1,7 +1,7 @@
 # Olá, eu sou o Bruno Gijon! 👋
 Estou atualmente estudando diversas linguagens de programação e finalizei essa certificação profissional, em Novembro de 2022.
 
-# Certificado Profissional IBM Cloud Full-Stack 
+# Certificado Profissional IBM Full-Stack Software Developer 
 
 Certificado alcançado após o término de cursos e projetos do programa profissional da IBM, juntamente com a Coursera:
 
