@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno Gijon! 👋
+# Olá, eu sou o Bruno Gijon Moreno! 👋
 Estou atualmente estudando diversas linguagens de programação e finalizei essa certificação profissional, em Novembro de 2022.
 
 # Certificado Profissional IBM Full-Stack Software Developer 
